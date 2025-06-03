@@ -1,0 +1,12 @@
+# Jupyter Notebook
+# pip install notebook
+# depois de instalado: jupyter notebook
+
+# Essa linha cria uma variável a
+a = 2
+
+# Essa linha tem o valor da variável 'a' em dobro
+b = a * 2
+
+# Essa linha mostra o valor de 'a' + 'b'
+print(a + b)
